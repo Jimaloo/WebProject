@@ -419,3 +419,7 @@ strong {
     scroll-behavior: smooth;
     overflow-x: scroll;
 }
+.header_name {
+    color: #BB0000;
+    font-size: xx-large;
+}
