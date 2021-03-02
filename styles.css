@@ -296,6 +296,10 @@ strong {
         width: 90%;
         text-align: center;
     }
+    .header_name {
+        color: #BB0000;
+        font-size: 2rem;
+    }
 }
 
 .skill {
@@ -401,7 +405,7 @@ strong {
 
 .artistImage img {
 
-    margin: -10px 0px 0px -180px;
+    margin: -10px 0 0 -180px;
 }
 
 .mywork {
@@ -411,7 +415,7 @@ strong {
 
 .myprojects .sectitle {
     color: #BB0000;
-    font-size: x-large;
+    font-size: 3rem;
 }
 
 .mywork {
